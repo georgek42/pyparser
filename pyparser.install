@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/pyparser/META" {"META"}
+  "_build/install/default/lib/pyparser/dune-package" {"dune-package"}
+  "_build/install/default/lib/pyparser/opam" {"opam"}
+]
+doc: [
+  "_build/install/default/doc/pyparser/README.md"
+]

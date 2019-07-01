@@ -1,0 +1,4 @@
+(library
+  (name pyparser)
+  (preprocess (pps ppx_jane ppx_deriving.std))
+  (libraries core pyml yojson))
